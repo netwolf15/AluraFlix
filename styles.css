@@ -3,7 +3,6 @@ body{
     background: black;
 }
 
-<head>
-    <link rel="stylesheet" href="styles.css">
-    <title>Aluraflix<|title>
-</head>
+header{
+    border-bottom: solid 2px rgb(42,122,228);
+}
